@@ -35,6 +35,76 @@ document.addEventListener('DOMContentLoaded', () => {
             poster: "https://www.cinemadevlugt.nl/wp-content/uploads/2022/10/rrr_poster_by_kanthi7_df60q75-fullview.jpeg",
             description: "RRR(subtitled onscreen as Roudram Ranam Rudhiram) is a 2022 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
         },
+        {
+            title: "ORANGE",
+            poster: "https://2.bp.blogspot.com/_eewr1b1LpYA/TMJ5LxO1pbI/AAAAAAAAJvM/ZLcNP_xxMyc/s1600/ram_charan_teja_orange_telugu_movie_posters_05.jpg",
+            description: "Orange is a 2015 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "VIKRAMARKUDU",
+            poster: "https://m.media-amazon.com/images/M/MV5BY2FiODI1ZmYtMjkxYS00YzFhLWE3ODgtZWUxNzMyNDU3YWM4XkEyXkFqcGdeQXVyMTYyNjAzOTUx._V1_FMjpg_UX1000_.jpg",
+            description: "Vikramarkudu is a 2007 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "ISHQ",
+            poster: "https://wallpapercave.com/wp/wp7536326.jpg",
+            description: "Ishq is a 2016 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "ANIMAL",
+            poster: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieFSZNmYkBybumsiTC3gFtpB0kZGs5MhbrTdwxqHwz2J9neY6ASDZC6zjBBos1Qrf4eNjD_6VHCqTTCdwzV4yXXLgmItmNv0nqvf3mwUUu82wsB_zvGwoNN3bqov_XsqqPIHLul4fhk9dXs0MUg0k-QaB6HhV92Oa3X0fcQLGFY4Ukt5XHn0YQ1SrB/s1600/animal-movie-first-look-poster-ranbir-kapoor.jpg",
+            description: "Animal is a 2023 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "ENDHUKANTE PREMANTA",
+            poster: "http://4.bp.blogspot.com/-VCh-AeEr93E/T4r33ZdyynI/AAAAAAAAnqY/33uewNyOljw/s1600/Endukante+Premanta+Movie+Posters+Mycineworld+Com+(3).jpg",
+            description: "Endhukante Premanta is a 2014 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "SAAHO",
+            poster: "https://www.cinejosh.com/gallereys/movies/normal/sahoo_movie_new_poster_1206190641/sahoo_movie_new_poster_1206190641_01.jpg",
+            description: "Saaho is a 2018 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "1917",
+            poster: "https://cdn.shopify.com/s/files/1/0969/9128/products/1917_-_Sam_Mendes_-_Hollywood_War_Film_Classic_English_Movie_Poster_a12704bd-2b25-4aa7-8c8d-8f40cf467dc7.jpg?v=1582781089",
+            description: "1917 is a Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "TITANIC",
+            poster: "https://picfiles.alphacoders.com/140/thumb-1920-140026.jpg",
+            description: "Titanic is a 1990 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "AVATAR",
+            poster: "https://static.javatpoint.com/best/images/best-english-movies3.png",
+            description: "Avatar is a 2006 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "WAR",
+            poster: "https://wallpapercave.com/wp/wp7490940.jpg",
+            description: "War is a 2018 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "LAGAAN",
+            poster: "http://images.desimartini.com/media/uploads/lagaan_xlg.jpg",
+            description: "Lagaan is a 2009 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "SANJU",
+            poster: "https://english.cdn.zeenews.com/sites/default/files/2018/06/07/693101-sanjunargis.gif",
+            description: "Sanju is a 2014 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "RAGUVARAN B.TECH",
+            poster: "https://www.cinejosh.com/gallereys/movies/normal/raghuvaran_b_tech_posters_1112140644/raghuvaran_b_tech_posters_1112140644_014.jpg",
+            description: "Raghuvaran B.tech is a 2012 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
+        {
+            title: "ROBO",
+            poster: "https://www.cinejosh.com/gallereys/movies/normal/robo_movie_wallpapers/robo_movie_wallpapers_013.jpg",
+            description: "ROBO is a 2022 Indian Telugu-language epic period action drama film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by D. V. V. Danayya of DVV Entertainment. The film stars N. T. Rama Rao Jr., Ram Charan, Ajay Devgn, Alia Bhatt, Shriya Saran, Samuthirakani, Ray Stevenson, Alison Doody, and Olivia Morris. It is a historical fiction film about two Indian revolutionaries, Alluri Sitarama Raju (Charan) and Komaram Bheem (Rama Rao), their friendship, and their fight against the British Raj."
+        },
     
     ];
 
@@ -68,8 +138,8 @@ document.addEventListener('DOMContentLoaded', () => {
         moviePoster.src = movie.poster;
         movieDescription.textContent = movie.description;
         movieMain.style.display = 'flex';
-        moviePoster.style.height='300px';
-        moviePoster.style.width='300px'
+        moviePoster.style.height='400px';
+        moviePoster.style.width='450px'
     }
 
     function hideModal() {
